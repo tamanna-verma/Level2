@@ -13,6 +13,9 @@
 05.number of subarrays sum exactly k	</br>
     https://leetcode.com/problems/subarray-sum-equals-k/submissions/</br>
     </br>
-06.Subarray sum Divisible by k</br>
+06.Longest SubArray with sum k </br>
+https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/#</br>
+</br>
+07.Subarray sum Divisible by k</br>
     https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1/</br>
 </br>
