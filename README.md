@@ -1,7 +1,7 @@
 # Level2
 01. subarray with equal number of 0 and 1	</br>
     https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1/#</br>
-    </br>
+</br>
 02.Largest subarray of 0's and 1's </br>
     https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1/</br>
 </br>
