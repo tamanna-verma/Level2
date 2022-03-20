@@ -19,3 +19,11 @@ https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/#
 07.Subarray sum Divisible by k</br>
     https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1/</br>
 </br>
+08.Check if array pairs are divisible by K</br>
+https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/</br>
+https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1/</br>
+</br>
+09. Count Array Pairs Divisible by K </br>
+ https://leetcode.com/problems/count-array-pairs-divisible-by-k/</br>
+ https://practice.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1/#</br>
+ </br>
