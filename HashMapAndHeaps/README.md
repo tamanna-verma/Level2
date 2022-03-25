@@ -27,3 +27,12 @@ https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3
  https://leetcode.com/problems/count-array-pairs-divisible-by-k/</br>
  https://practice.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1/#</br>
  </br>
+10.X of a Kind in a deck of cards</br>
+https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/</br>
+</br>
+11.Check AP Sequence </br>
+https://practice.geeksforgeeks.org/problems/check-arithmetic-progression1842/1/#</br>
+</br>
+12.Array of doubled Pairs</br>
+https://leetcode.com/problems/array-of-doubled-pairs/</br>
+</br>
