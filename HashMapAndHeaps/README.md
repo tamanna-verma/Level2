@@ -42,7 +42,7 @@ https://leetcode.com/problems/rabbits-in-forest/submissions/
 https://www.geeksforgeeks.org/count-the-pairs-in-an-array-such-that-the-difference-between-them-and-their-indices-is-equal/</br>
 https://codeforces.com/problemset/problem/1520/D</br>
 </br>
-15.Count Of Distinct element in a window of size k</br>
+15. Count Of Distinct element in a window of size k</br>
 https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1/</br>
 </br>
 
