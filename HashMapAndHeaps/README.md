@@ -39,7 +39,7 @@ https://leetcode.com/problems/array-of-doubled-pairs/</br>
 13.Rabbits In Forest </br>
 https://leetcode.com/problems/rabbits-in-forest/submissions/
 14.Same Differences</br>
-https://www.geeksforgeeks.org/count-the-pairs-in-an-array-such-that-the-difference-between-them-and-their-indices-is-equal/</br>
+https://www.geeksforgeeks.org/count-the-pairs-in-an-array-such-that-the-difference-between-them-and-their-indices-is-equal/#:~:text=Like%20Article-,Count%20the%20pairs%20in%20an%20array%20such%20that%20the%20difference,and%20their%20indices%20is%20equal&text=Given%20an%20array%20arr%5B%5D,i%5D%20%3D%20j%20%E2%80%93%20i.&text=The%20only%20valid%20pair%20is,%3D%202%20%E2%80%93%200%20%3D%202.</br>
 https://codeforces.com/problemset/problem/1520/D</br>
 </br>
 15. Count Of Distinct element in a window of size k</br>
